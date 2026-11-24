@@ -1,0 +1,12 @@
+GENETIC ALGORITHM - DELIVERY ROUTE OPTIMISATION
+Dataset: Fictional assignment distance matrix
+Random seed: 42
+Population size: 100
+Number of generations: 200
+Mutation rate: 0.2
+Number of elite routes: 2
+
+Best route:
+A -> G -> F -> C -> D -> E -> B -> A
+
+Total distance: 29 km
