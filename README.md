@@ -1,7 +1,9 @@
 # AI LAB TASK ⋆˚꩜｡
 
 STUDENT NAME: NADEERA SAFIYYA 
+
 STUDENT ID: 2500126
+
 LAB: LAB 2 (TUESDAY)
 
 ## Table of Contents
