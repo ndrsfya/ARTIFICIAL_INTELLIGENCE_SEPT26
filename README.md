@@ -13,4 +13,4 @@ STUDENT NAME: NADEERA SAFIYYA
 | 2026/10/28 | LAB 5 -  Robotics: From Sensor Readings to Actions |
 | 2026/11/04 | LAB 6 - NLP Foundations: Handwriting OCR Evaluation |
 | 2026/11/11 | LAB 7 - NLP Sentiment Classification |
-| 2026/11/18 | LAB 8 |
+| 2026/11/18 | LAB 8 - Genetic Algorithm |
